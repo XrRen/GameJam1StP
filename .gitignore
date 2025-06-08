@@ -85,3 +85,4 @@ Plugins/**/Intermediate/
 !**/Build/*/**/
 !**/Build/*/PakBlacklist*.txt
 !**/Build/**/*.ico
+GameJam1StP/Saved/AutoScreenshot.png
