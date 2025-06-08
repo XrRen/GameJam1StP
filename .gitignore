@@ -73,4 +73,15 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-GameJam1StP/Saved/AutoScreenshot.png
+
+# Unreal Engine build folders to ignore
+/Saved/
+/Intermediate/
+/DerivedDataCache/
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.tmp
+*.log
+*.vs/
