@@ -73,3 +73,15 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Unreal Engine build folders to ignore
+/Saved/
+/Intermediate/
+/DerivedDataCache/
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.tmp
+*.log
+*.vs/
